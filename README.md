@@ -40,9 +40,9 @@ Header Image
 -----
  
 # **Get in Touch**
-- 💼 [LinkedIn](https://www.linkedin.com/in/taranjeet-kaur-479/)
+- 💼 [LinkedIn]:(https://www.linkedin.com/in/taranjeet-kaur-479/)
   
-- 📧 [Email](tarnjeetk035@gmail.com)
+- 📧 [Email]:(tarnjeetk035@gmail.com)
  
 -----
  
